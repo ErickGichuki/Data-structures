@@ -13,3 +13,7 @@ for i in range(len(my_list)):
 
 # calculating the sum of my list elements
 print("sum = ", sum(my_list))
+
+my_tupple = ("River and the source", "The river between", "Kidagaa kimemwozea", "The caucasian chalk circle", "Betrayal in the City")
+for m in range(my_tupple):
+    pass
